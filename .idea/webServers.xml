@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="e6542b55-8017-4386-b2fb-adb89480bb7a" name="research" url="http://localhost">
-        <fileTransfer host="https://github.com/luqingchen0821" port="21" accessType="FTPS">
+        <fileTransfer host="http://git.oschina.net/lqch0821" port="21" rootFolder="/research" accessType="FTPS">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
